@@ -107,7 +107,7 @@ c. Test the code using jest snapShots and for this use the Command : npx jest
 
 ### deployment
 
-You may use the online version of my work. Here is the link of online version: [Link](globe-trekker.vercel.app)
+You may use the online version of my work. Here is the link of online version: [Link](globe-trekker-24o85gmmd-sazzad1q2.vercel.app)
 
 <!-- AUTHORS -->
 
