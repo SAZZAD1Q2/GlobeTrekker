@@ -126,9 +126,7 @@ You may use the online version of my work. Here is the link of online version: [
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-
-- [ ] **[Delete Completed works]**
+[Link of the recording](https://www.loom.com/share/6d9aa4fb7042449fafeae3d76544c9ad?sid=972552a3-cb8a-41ef-b837-2a5ed6e51796)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
