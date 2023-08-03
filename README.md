@@ -26,16 +26,16 @@
 
 
 
-# 📖 math_magician <a name="math_magician"></a>
+# 📖 GlobeTrekker <a name="GlobeTrekker"></a>
 
-> It is a math_magician project. I make some changes so that the math operation works properly in my calculator. Here I created the full layout of my website.
+> It is a math_magician project. I make some changes so that show the world's map and nations. Here I created the full layout of my website.
 
-**math_magician** is a Microverse assined project. In this project I will apply React step by step.
+**GlobeTrekker ** is a Microverse assined project. In this project I will apply React and Redux step by step.
 
 ## 🛠 Built With <a name="built-with"></a>
 <li>React</li>
 <li>Components</li>
-<li>JavaScript</li>
+<li>Redux</li>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -67,9 +67,9 @@
 
 
 
-- **[REACT]**
-- **[JavaScript]**
-- **[Webpack]**
+- **[Redux]**
+- **[React]**
+- **[Javascript]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +77,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Git clone https://github.com/SAZZAD1Q2/math_magician.git
+Git clone https://github.com/SAZZAD1Q2/GlobeTrekker.git
 Run in your browser
 
 ### Prerequisites
@@ -90,7 +90,7 @@ Browser
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/SAZZAD1Q2/math_magician.git
+Clone this repository to your desired folder: https://github.com/SAZZAD1Q2/GlobeTrekker.git
 Opent it to your code editor
 open it then to your browser.
 
@@ -107,7 +107,7 @@ c. Test the code using jest snapShots and for this use the Command : npx jest
 
 ### deployment
 
-You may use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/math_magician.git/
+You may use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/GlobeTrekker.git
 
 <!-- AUTHORS -->
 
@@ -116,8 +116,8 @@ You may use the online version of my work. Here is the link of online version: h
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/math_magician.git)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
+- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/GlobeTrekker.git)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sazzad3y/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
