@@ -12,7 +12,7 @@ function CountryDetails() {
     return (
       <div>
         <h1>No Country Abailable</h1>
-        <button type="submit" onClick={() => navigation('/')} className="back-btn">Go Back</button>
+        <button type="submit" onClick={() => navigation('/')} className="backBtn">Go Back</button>
       </div>
     );
   }
@@ -23,10 +23,10 @@ function CountryDetails() {
 
   return (
     <div>
-      <div className="world-map">
-        <div className="search-background">
-          <button type="submit" onClick={() => navigation('/')} className="back-btn">Back</button>
-          <h1 className="search-heading">World Countries</h1>
+      <div className="worldMap">
+        <div className="searchBackground">
+          <button type="submit" onClick={() => navigation('/')} className="backBtn">Back</button>
+          <h1 className="searchHeading">World Countries</h1>
         </div>
       </div>
       <div className="container">

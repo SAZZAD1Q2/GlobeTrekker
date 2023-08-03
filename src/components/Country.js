@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { NavLink } from 'react-router-dom';
 import PropTypes from 'prop-types';
-import { fetchCountries } from '../redux/countries/countriesSlice';
+import { fetchCountries } from '../redux/country/countriesSlice';
 
 function Country({ country }) {
   const { name, region, flags } = country;
@@ -13,8 +13,8 @@ function Country({ country }) {
           <div className="image">
             <img src={flags} alt="country" />
           </div>
-          <h1 className="country-heading-one">{name}</h1>
-          <h4 className="country-heading-two">
+          <h1 className="countryHeadLineOne">{name}</h1>
+          <h4 className="countryHeadlineTwo">
             Region:
             {' '}
             {region}
@@ -69,8 +69,8 @@ function Countries() {
   return (
     <>
       <div className="main-container">
-        <div className="world-map">
-          <div className="search-background">
+        <div className="worldMap">
+          <div className="searchBackground">
             <input
               type="text"
               value={search}
@@ -78,10 +78,10 @@ function Countries() {
               onChange={handleSearch}
               className="search"
             />
-            <h1 className="search-heading">World Countries</h1>
+            <h1 className="searchHeading">World Countries</h1>
           </div>
         </div>
-        <div className="countries-container">
+        <div className="countryContainer">
           {searchCountry.map((country) => (
             <Country key={country.id} country={country} />
           ))}
