@@ -31,22 +31,22 @@ function CountryDetails() {
       </div>
       <div className="container">
         <img src={flags} alt="country" />
-        <h1 className="country-heading-one">
+        <h1 className="countryHeadLineOne">
           Country Name:
           {' '}
           {countryName}
         </h1>
-        <h4 className="country-heading-two">
+        <h4 className="countryHeadlineTwo ">
           Region:
           {' '}
           {region}
         </h4>
-        <h4 className="country-heading-two">
+        <h4 className="countryHeadlineTwo ">
           Population:
           {' '}
           {population}
         </h4>
-        <h4 className="country-heading-two">
+        <h4 className="countryHeadlineTwo">
           Area:
           {' '}
           {area}

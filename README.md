@@ -107,7 +107,7 @@ c. Test the code using jest snapShots and for this use the Command : npx jest
 
 ### deployment
 
-You may use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/GlobeTrekker.git
+You may use the online version of my work. Here is the link of online version: globe-trekker.vercel.app
 
 <!-- AUTHORS -->
 
@@ -127,7 +127,7 @@ You may use the online version of my work. Here is the link of online version: h
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Delete Completed works]**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -147,7 +147,7 @@ If you like this project. Give me star. please spread it out to your network.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse for this inspiration.
+I would like to thank Microverse and the creator who generated the idea of the app and design. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

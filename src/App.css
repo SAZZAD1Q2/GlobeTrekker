@@ -5,11 +5,17 @@
 }
 
 .nav-container {
-  background-color: #59b4cd;
+  background-color: rgb(186, 11, 78);
   color: #fff;
   display: flex;
-  padding: 13px 7px;
-  font-size: 24px;
+  padding: 12px 9px;
+  font-size: 18px;
+}
+
+.settings {
+  padding-left: 18rem;
+  display: flex;
+  gap: 25px;
 }
 
 .Views {
@@ -29,14 +35,14 @@
 .searchBackground {
   width: 100%;
   height: 100%;
-  background-color: #1b9fdcb8;
+  background-color: #f21043b8;
 }
 
 .search {
   width: 72%;
-  margin: 11px 37px;
+  margin: 30px 37px;
   padding: 12px;
-  border-radius: 6px;
+  border-radius: 2px;
   border: none;
 }
 
@@ -57,12 +63,12 @@
 .card {
   width: 100%;
   padding: 25px;
-  background-color: #69aead;
+  background-color: rgb(186, 11, 78);
 }
 
 .card:nth-child(4n+1),
 .card:nth-child(4n+4) {
-  background-color: #459cadb8;
+  background-color: #f21043b8;
 }
 
 .navLink {
@@ -97,7 +103,7 @@
 .container {
   width: 100%;
   padding: 24px;
-  background-color: #599eb5;
+  background-color: rgb(186, 11, 78);
   height: 100vh;
 }
 
