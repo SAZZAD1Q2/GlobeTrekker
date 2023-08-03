@@ -107,7 +107,7 @@ c. Test the code using jest snapShots and for this use the Command : npx jest
 
 ### deployment
 
-You may use the online version of my work. Here is the link of online version: [Link](https://globe-trekker.vercel.app/)
+You may use the online version of my work. Here is the link of online version: [Link](globe-trekker.vercel.app)
 
 <!-- AUTHORS -->
 
@@ -147,7 +147,7 @@ If you like this project. Give me star. please spread it out to your network.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse and the creator who generated the idea of the app and design. 
+I would like to thank Microverse and the creator [gootyfer](https://github.com/gootyfer) who generated the idea of the app and design. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
