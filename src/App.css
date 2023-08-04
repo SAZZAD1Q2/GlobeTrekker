@@ -1,38 +1,118 @@
-.App {
-  text-align: center;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.nav-container {
+  background-color: rgb(186, 11, 78);
+  color: #fff;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 12px 9px;
+  font-size: 18px;
 }
 
-.App-link {
-  color: #61dafb;
+.settings {
+  padding-left: 18rem;
+  display: flex;
+  gap: 25px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Views {
+  position: absolute;
+  margin-left: 10rem;
+  color: #f3f0f0;
+}
+
+.worldMap {
+  width: 100%;
+  height: 207px;
+  background-image: url('./assets/worldMap.png');
+  background-position: center;
+  background-size: cover;
+}
+
+.searchBackground {
+  width: 100%;
+  height: 100%;
+  background-color: #f21043b8;
+}
+
+.search {
+  width: 72%;
+  margin: 30px 37px;
+  padding: 12px;
+  border-radius: 2px;
+  border: none;
+}
+
+.searchHeading {
+  color: #efe8e8;
+  position: absolute;
+  font-size: 26px;
+  margin-left: 19rem;
+  margin-top: 2rem;
+}
+
+.countryContainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 100%;
+}
+
+.card {
+  width: 100%;
+  padding: 25px;
+  background-color: rgb(186, 11, 78);
+}
+
+.card:nth-child(4n+1),
+.card:nth-child(4n+4) {
+  background-color: #f21043b8;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #444;
+}
+
+.image {
+  width: 165px;
+  height: 107px;
+  object-position: center;
+  object-fit: cover;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+}
+
+.countryHeadLineOne {
+  margin-top: 12px;
+  font-size: 23px;
+  color: #fff;
+}
+
+.countryHeadlineTwo {
+  color: #e7e2e2;
+  font-size: 18px;
+  margin-top: 7px;
+}
+
+.container {
+  width: 100%;
+  padding: 24px;
+  background-color: rgb(186, 11, 78);
+  height: 100vh;
+}
+
+.backBtn {
+  margin-top: 16px;
+  margin-left: 14px;
+  width: 76px;
+  height: 36px;
+  background-color: #fff;
+  border: none;
+  border-radius: 3px;
 }
