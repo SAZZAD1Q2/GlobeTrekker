@@ -107,7 +107,7 @@ c. Test the code using jest snapShots and for this use the Command : npx jest
 
 ### deployment
 
-You may use the online version of my work. Here is the link of online version: [Link](globe-trekker.vercel.app)
+You may use the online version of my work. Here is the link of online version: [Link](https://globe-trekker-3op41muro-sazzad1q2.vercel.app/)
 
 <!-- AUTHORS -->
 
@@ -124,9 +124,19 @@ You may use the online version of my work. Here is the link of online version: [
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Video Presentation <a name="live-demo"></a>
 
 [Link of the recording](https://www.loom.com/share/6d9aa4fb7042449fafeae3d76544c9ad?sid=972552a3-cb8a-41ef-b837-2a5ed6e51796)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Features will be updated to this project.
+
+- Modify styles and animation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +157,7 @@ If you like this project. Give me star. please spread it out to your network.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse and the creator [gootyfer](https://github.com/gootyfer) who generated the idea of the app and design. 
+I would like to thank Microverse community. I would also like to thank [Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio) for making and providing the design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
